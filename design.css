@@ -29,6 +29,10 @@ li a:hover {
 	font-family:Benguiat Bk BT;
 }
 
+.container{
+	padding:30px 30px 30px 30px;
+}
+
 @media screen and (max-width:500px){
 	.ham{
 		width:25px;
